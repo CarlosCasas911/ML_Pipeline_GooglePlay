@@ -21,7 +21,7 @@ Este proyecto implementa un pipeline automatizado de Machine Learning para clasi
 5. Evaluación con métricas, curvas ROC y exportación de resultados.
 
 ## 👨‍💻 Autores:
-Aviles Tolentino Aria del Rosario
-Carlos Israel Casas Misaico
-Chanca Correa Annya Celeste Luciana
-Martinez Timana Jhon Willy
+1. Aviles Tolentino Aria del Rosario
+2. Carlos Israel Casas Misaico
+3. Chanca Correa Annya Celeste Luciana
+4. Martinez Timana Jhon Willy
