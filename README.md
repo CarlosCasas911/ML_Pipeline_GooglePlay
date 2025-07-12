@@ -8,8 +8,8 @@ Este proyecto implementa un pipeline automatizado de Machine Learning para clasi
 ## 🚀 Instrucciones
 
 1. El archivo `googleplaystore.csv` ya está en `data/`. 
-2. Instala las librerías necesarias si se requiere: pip install -r requirements.txt
-3. Ejecuta el pipeline: python pipeline.py
+2. Instala las librerías necesarias si se requiere: `pip install -r requirements.txt`
+3. Ejecuta el pipeline: `python pipeline.py`
 4. Revisa los resultados en la carpeta `outputs/`.
 
 ## 🔎 ¿Qué hace este pipeline?
