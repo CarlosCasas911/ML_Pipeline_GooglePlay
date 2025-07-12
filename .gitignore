@@ -1,0 +1,5 @@
+# Ignorar todos los archivos dentro de outputs/
+outputs/*
+
+# ¡Excepto este archivo vacío que mantiene la carpeta en Git!
+!outputs/.gitkeep
